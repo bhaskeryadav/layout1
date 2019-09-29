@@ -1,0 +1,23 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/grid/FullWidthGrid.js",
+  "keywords": [],
+  "name": "layouot-1",
+  "version": "0.0.35",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "4.4.3",
+    "moment": "2.24.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
